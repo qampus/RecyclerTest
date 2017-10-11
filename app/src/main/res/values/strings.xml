@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RecyclerTest</string>
+    <string-array name="pet_name">
+        <item>Cats</item>
+        <item>Dog</item>
+        <item>Cambing</item>
+        <item>Sapy</item>
+        <item>Sepiana</item>
+        <item>Bebeq</item>
+        <item>Kadals</item>
+        <item>Bebeq</item>
+    </string-array>
+
+
+    <string-array name="description">
+        <item>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</item>
+        <item>Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </item>
+        <item>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. </item>
+        <item>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</item>
+        <item>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. </item>
+        <item>Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. </item>
+        <item>Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. </item>
+        <item>Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. </item>
+    </string-array>
+
+
+</resources>
