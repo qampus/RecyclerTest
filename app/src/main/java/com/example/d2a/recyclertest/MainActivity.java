@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         des = getResources().getStringArray(R.array.description);
 
         ad = new MyOwn(this, animals, des, imageRes);
-
+	//create new variable
         recyclerView.setAdapter(ad);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
     }
